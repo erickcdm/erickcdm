@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**erickcdm/erickcdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Erick Montero Medina
 
-Here are some ideas to get you started:
+**Senior PHP / Full Stack Developer**  
+🌍 Mexico | Open to Remote (USA & LATAM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Senior Full Stack Developer with **12+ years of experience** building scalable web applications for **government, education, and private-sector platforms**.  
+I specialize in **Laravel, Vue.js, React, and REST APIs**, with hands-on experience in **cloud-based architectures, multitenant systems, and remote collaboration**.
+
+---
+
+## 🧠 Core Expertise
+- Backend development with **PHP & Laravel (8–10+)**
+- Frontend development using **Vue.js (Vue 3), React**
+- **REST API** design and integration
+- **Multi-tenant architectures** (Laravel Tenancy)
+- Cloud storage with **AWS S3 & DigitalOcean Spaces**
+- Clean code, maintainability, and best practices
+- Remote teamwork & Git-based workflows
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:** PHP, Laravel, REST APIs, Eloquent, MVC,
